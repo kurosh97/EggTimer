@@ -2,7 +2,6 @@
 
 # Egg Timer
 
-## Goal
 
 
 ## Goal
